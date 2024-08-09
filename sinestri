@@ -1,15 +1,26 @@
+<html lang="pt-br">
+
 <head>
     <link rel="stylesheet" href="styles.css">
+    <title>SINESTRIFLIX</title>
 </head>
 
 <body>
 
-<header>SINESTRIFLIX!</header>
+    <header>SINESTRIFLIX!</header>
 
+    <section>
+        <div>
+            <h1>O PODER DO AUTO CRAFTER - Minecraft Em busca da casa automática #369</h1>
+            <p>#minecraft</p>
+        </div>
 
-<h1>O PODER DO AUTO CRAFTER - Minecraft Em busca da casa automática #369</h1>
-<p>#minecraft</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C9IdMyuVrmM?si=1xWv0Z5u3DInoB2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/C9IdMyuVrmM?si=1xWv0Z5u3DInoB2v"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
 
 </body>
